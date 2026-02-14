@@ -66,3 +66,8 @@ VITE_API_BASE=http://localhost:8000 npm run dev
 - добавить метаданные документов (tenant/user/source uri);
 - добавить re-ranking;
 - добавить auth и очереди для крупных PDF.
+# codex
+
+## Тесты загрузки файлов
+Отдельные тесты загрузки файлов находятся в `tests/upload`.
+См. инструкции запуска: `tests/upload/README.md`.
